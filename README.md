@@ -1,5 +1,5 @@
 # Music Production Projects
-+ a compiled list of all of the projects from my Intro to Music Composition class
++ a compiled list of all of the projects from my Creative Musicianship class
 
 ## MUSIC 0121 Music Production Project
 +	Incorporate concepts from beat-making, assemblage-style composition, and vocal palette sounds beyond lyricism
